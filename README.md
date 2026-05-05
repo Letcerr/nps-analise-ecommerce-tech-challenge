@@ -1,5 +1,7 @@
 # 📊 Análise Exploratória de Dados (EDA) — NPS em E-commerce
 
+**Integrantes**: Alfeson Luiz Araujo de Macedo; Fabio Luis Amaro de Lima Silva Santana; Letícia Alves de Sena
+
 ## Objetivo
 
 O seguinte projeto tem como objetivo analisar os principais fatores que impactam a satisfação dos clientes em um e-commerce, utilizando métricas de NPS (Net Promoter Score). A análise busca identificar os fatores mais críticos para a experiência do cliente e entender o que torna um cliente em um detrator.
